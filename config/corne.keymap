@@ -44,7 +44,7 @@
 //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------| 
    &trans    &none    &none    &none   &kp LT  &kp GT                       &kp MINUS &kp EQUAL &kp SLASH &kp GRAVE &none &none
 //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------| 
-   &trans    &none    &none    &none   &kp LBKT  &kp RBKT                   &kp UNDER &kp PLUS  &kp PIPE  &kp TILDE &none &trans
+   &trans    &none    &none    &none   &kp LBRC  &kp RBRC                   &kp UNDER &kp PLUS  &kp PIPE  &kp TILDE &none &trans
 //|-----------------------------------+--------+--------+--------|  |--------+--------+--------+-----------------------------------|
                                         &trans   &trans   &mo 3      &trans   &trans   &kp DEL
                         >;
